@@ -1,0 +1,1 @@
+This project analyzes long-term NBA injury trends and evaluates whether modern style-of-play changes, specifically faster pace and increased 3-point frequency, are contributing to a rise in injuries. The analysis combines text-mined injury logs with league-wide statistics to build a unified dataset for correlation and regression modeling.
